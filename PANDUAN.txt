@@ -1,0 +1,13 @@
+*********************************Panduan instalasi******************
+1.aktifkan xampp apche dan mysql
+2.masuk ke phpmyadmin
+3.buat database baru beri nama "baraci_hotel"
+4.setelah berhasil masuk ke tampilan awal untuk customer/tamu 
+caranya ->localhost/hotel/admin
+
+Admin
+cara masuk ke admin ketikan di web browser copykan-> localhost/hotel/admin
+
+username:Admin
+Password:Janobe
+
